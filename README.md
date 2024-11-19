@@ -5,21 +5,17 @@ Este guia descreve o processo de criação de tabelas, inserção de dados e exe
 
 ## Passo 1: Acesse o Console CQL no Astra DB
 
-1. Acesse o [Astra DB Console](https://astra.datastax.com) e faça login na sua conta.
-2. Selecione o banco de dados ou crie um novo banco de dados.
-3. No menu à esquerda, clique em **CQL Console** para acessar o ambiente de execução de queries.
+1. Acesse o [Astra DB Console](https://astra.datastax.com) 
 
 ## Passo 2: Criar as Tabelas
 
 1. **Faça o upload do arquivo `createTable.sql`** (ou cole seu conteúdo no console).
 2. Execute o script clicando em **Executar** ou pressionando **Ctrl + Enter**.
-3. Isso criará todas as tabelas necessárias no banco de dados.
 
 ## Passo 3: Inserir Dados de Exemplo
 
 1. **Faça o upload do arquivo `inserts_numericos.sql`** (ou cole seu conteúdo no console).
 2. Execute o script clicando em **Executar** ou pressionando **Ctrl + Enter**.
-3. Isso irá inserir dados de exemplo nas tabelas criadas.
 
 ## Passo 4: Executar as Consultas
 
